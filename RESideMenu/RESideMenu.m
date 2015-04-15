@@ -143,13 +143,13 @@
     [self showRightMenuViewController];
 }
 
--(void)hideLeftMenuViewController
+-(void)hideContentMenuViewController
 {
     self.contentViewController.view.hidden = YES;
     self.contentViewShadowEnabled = NO;
 }
 
--(void)showLeftMenuViewController
+-(void)showContentMenuViewController
 {
     self.contentViewController.view.hidden = NO;
     self.contentViewShadowEnabled = YES;
