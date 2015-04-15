@@ -56,14 +56,4 @@
     [self.sideMenuViewController presentRightMenuViewController];
 }
 
-- (IBAction)hideLeftMenuViewController:(id)sender
-{
-    [self.sideMenuViewController hideLeftMenuViewController];
-}
-
-- (IBAction)hideLeftMenuViewController:(id)sender
-{
-    [self.sideMenuViewController showLeftMenuViewController];
-}
-
 @end

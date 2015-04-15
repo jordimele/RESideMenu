@@ -35,7 +35,5 @@
 
 - (IBAction)presentLeftMenuViewController:(id)sender;
 - (IBAction)presentRightMenuViewController:(id)sender;
-- (IBAction)hideLeftMenuViewController:(id)sender;
-- (IBAction)hideLeftMenuViewController:(id)sender;
 
 @end
